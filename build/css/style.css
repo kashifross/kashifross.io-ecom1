@@ -1,6 +1,29 @@
 body {
   margin: 0;
-  background-color: #343434; }
+  background-color: #f9f9f9;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-weight: 100; }
 
 .email-container {
   background-color: #fff; }
+
+.nav__heading {
+  padding: 10px 55px; }
+
+.fact-padding {
+  padding: 0 30px; }
+
+.fact--para {
+  font-size: 22px; }
+
+.fact-1__heading--secondary {
+  font-size: 60px;
+  color: #f9f9f9; }
+
+.fact-1__heading--para {
+  font-size: 22px;
+  margin-top: 0;
+  color: #1a1a1a; }
+
+.fact-2--left {
+  padding-top: 30px; }
